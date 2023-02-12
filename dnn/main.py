@@ -63,17 +63,6 @@ while (True) :
     try:
         if classes[classIds[max_index]] == "person":
             x , y, width, height = opencv_video.max_class(boxes,max_index)
-            area = int((width + height) / 2)
-            k = 575663
-            y_length = k/area
-            x_wide = (100/250)*(x-320)*(y_length/200)
-            out_length = y_length*0.2+0.8*last_length
-            out_width = x_wide*0.2+0.8*last_width
-            last_length = out_length
-            last_width = out_width
-            data = struct.pack("<bbhh", 0x2C, 0x12, int(out_width/10), int(out_length/10))
-            usart(data)
-            print(out_width,out_length)
     except:
         print("no person")
 
