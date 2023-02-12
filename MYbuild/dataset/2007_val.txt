@@ -1,0 +1,12 @@
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/38.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/53.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/35.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/5.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/85.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/18.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/84.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/111.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/92.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/88.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/95.jpg
+/home/cyh/Draknet/MYbuild/dataset/VOCdevkit/VOC2007/JPEGImages/70.jpg

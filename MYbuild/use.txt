@@ -1,0 +1,10 @@
+./darknet partial mydata/myyolov4.cfg weights/yolov4-tiny.weights yolov4-tiny.conv.29 29 #train1
+
+
+./darknet detector train mydata/myvoc.data mydata/myyolov4.cfg weights/yolov4-tiny.conv.29 -map #train2
+
+
+
+
+
+

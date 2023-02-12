@@ -1,0 +1,6 @@
+classes= 3
+train  = /home/cyh/Draknet/MYbuild/dataset/2007_train.txt
+valid  = /home/cyh/Draknet/MYbuild/dataset/2007_test.txt
+names = /home/cyh/Draknet/MYbuild/mydata/myvoc.names
+backup = /home/cyh/Draknet/MYbuild/weights/
+
